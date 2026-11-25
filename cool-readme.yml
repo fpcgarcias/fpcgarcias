@@ -1,0 +1,15 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: fpcgarcias
+show: [summary, languages, contributions, weekly, streaks, about, repos]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  about:
+    headline: null        # shown large, e.g. "Hi, I'm *fpcgarcias*"; *words* in the accent colour
+    lines: []             # a line each, e.g. ["I build developer tools."]
+    facts: {}             # label: text, e.g. { Focus: Rust, Based in: Lisbon }
